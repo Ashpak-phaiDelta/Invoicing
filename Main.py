@@ -272,7 +272,7 @@ def update_figure(selection_,from_date ): #, year
     # if type(year)!=list:
     #     year=[year]
 
-    # to convert i/p in list
+
     if type(from_date)!=list:
         from_date=[from_date]
 
