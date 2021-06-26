@@ -272,7 +272,7 @@ def update_figure(selection_,from_date ): #, year
     # if type(year)!=list:
     #     year=[year]
 
-
+    # ensure type as list
     if type(from_date)!=list:
         from_date=[from_date]
 
